@@ -10,6 +10,8 @@ A spammer tool for whatsapp, instagram, etc. (web versions)
 
 $ pip install PyAutoGUI
 
+$ git clone https://github.com/Sitiaro/spammer
+
 ## Usage ##
 
 - Download any random text file that you want to spam the user with, keep it in the same directory as your spammer, and replace the 'filename' with that file's name.
