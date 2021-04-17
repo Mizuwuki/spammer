@@ -4,3 +4,4 @@ f = open('filename', 'r')
 for word in f:
   pyautogui.typewrite(word)
   pyautogui.press('Enter')
+  #time.sleep(1)
