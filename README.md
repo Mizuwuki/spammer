@@ -21,3 +21,5 @@ $ git clone https://github.com/Sitiaro/spammer
 $ python main.py
 
 To start the script. You'll have a time frame of 20 secs to go to that social media's website before the spammer starts. Head over to the website and to the specific dm/chat that you want to spam beforehand.
+
+For websites that have a time limit per message (like discord), go to spammer.py and remove the # from time.sleep(1). 
