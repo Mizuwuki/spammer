@@ -8,7 +8,7 @@ A spammer tool for whatsapp, instagram, etc. (web versions)
 
 ## Installation ##
 
-$ pip install PyAutoGUI
+$ pip install pyautogui
 
 $ git clone https://github.com/Sitiaro/spammer
 
